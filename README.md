@@ -12,7 +12,7 @@ This project calculates simple interest given:
 
 The formula used is:
 
-Simple Interest = (P × R × T) / 100
+Simple Interest = (P x R x T) / 100
 
 ## Input
 
